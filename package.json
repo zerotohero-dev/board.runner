@@ -1,6 +1,6 @@
 {
   "name": "board.runner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A job runner for board.",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/v0lkan/board.runner#readme",
   "dependencies": {
+    "board.log": "^0.1.0",
     "glob": "^5.0.14"
   }
 }
