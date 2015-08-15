@@ -1,0 +1,29 @@
+{
+  "name": "board.runner",
+  "version": "0.1.0",
+  "description": "A job runner for board.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0lkan/board.runner.git"
+  },
+  "keywords": [
+    "runner",
+    "jobs",
+    "job",
+    "runner",
+    "board"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/board.runner/issues"
+  },
+  "homepage": "https://github.com/v0lkan/board.runner#readme",
+  "dependencies": {
+    "glob": "^5.0.14"
+  }
+}
