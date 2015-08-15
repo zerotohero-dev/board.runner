@@ -1,6 +1,6 @@
 {
   "name": "board.runner",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "description": "A job runner for board.",
   "main": "index.js",
   "scripts": {
